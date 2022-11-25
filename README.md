@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Black Desert Library]( https://discord.gg/DjrPsrjkjK)<br>🌱 I’m currently learning CSS3<br>💬 Ask me about Video-games<br>⚡ Fun fact 
+🔭 I’m currently working on [Black Desert Library]( https://discord.gg/DjrPsrjkjK)<br>🌱 I’m currently learning CSS3<br>💬 Ask me about Video-games<br>⚡ Fun fact ???....
 
 
 ## 🌐 Socials:
