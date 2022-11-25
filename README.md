@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [![Black Desert Library]( https://discord.gg/DjrPsrjkjK)<br>🌱 I’m currently learning <br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on [Black Desert Library]( https://discord.gg/DjrPsrjkjK)<br>🌱 I’m currently learning <br>💬 Ask me about <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -10,9 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kyajTim&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kyajTim&theme=radical&hide_border=true)<br/>
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kyajTim&icon=7&color=6)](https://visitcount.itsvg.in)
