@@ -12,7 +12,7 @@
 
 [![kyajTim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyajTim&show_icons=true&theme=github_dark)](https://github.com/kyajTim)
 
-
+[![kyajTim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyajTim&theme=github_dark)](https://wakatime.com/@kyajTim)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kyajTim&icon=7&color=6)](https://visitcount.itsvg.in)
