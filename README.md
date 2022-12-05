@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on [Black Desert Library]( https://discord.gg/DjrPsrjkjK)<br>🌱 I’m currently learning CSS3<br>💬 Ask me about Video-games<br>⚡ Fun fact ???....
 
+[![wakatime](https://wakatime.com/badge/user/d552153a-46a4-4e4d-844e-f5cec15b1459.svg)](https://wakatime.com/@d552153a-46a4-4e4d-844e-f5cec15b1459)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/4sxZ7G2y) 
