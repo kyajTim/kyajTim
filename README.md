@@ -16,7 +16,4 @@
 
 [![kyajTim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyajTim&theme=github_dark)](https://wakatime.com/@kyajTim)
 
----
-[![](https://visitcount.itsvg.in/api?id=kyajTim&icon=7&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
