@@ -14,6 +14,6 @@
 
 [![kyajTim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyajTim&show_icons=true)](https://github.com/kyajTim)
 
-[![kyajTim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyajTim)](https://wakatime.com/@kyajTim)
+[![kyajTim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=t_heonsin)](https://wakatime.com/@t_heonsin)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
